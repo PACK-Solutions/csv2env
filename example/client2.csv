@@ -1,0 +1,2 @@
+PROPERTY1_VALUE,PROPERTY2_VALUE,PROPERTY3_VALUE,DB_HOST,DB_PORT,DB_NAME,API_KEY,DEBUG_MODE
+client2-value1,client2-value2,client2-value3,db.example.com,5432,production,xyz789,false
